@@ -1,0 +1,128 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Cómo aprender JavaScript desde cero",
+      "content": "JavaScript es un lenguaje de programación esencial para el desarrollo web moderno. Si estás empezando, te recomiendo comenzar con los conceptos básicos como variables, funciones, estructuras de control y el modelo de objetos del navegador (DOM). Luego, puedes avanzar hacia temas más complejos como programación orientada a objetos, manejo de eventos, promesas y asincronía con async/await. No olvides practicar constantemente con pequeños proyectos como una calculadora, un reloj digital o una lista de tareas. Además, plataformas como freeCodeCamp, MDN Web Docs y JavaScript.info ofrecen excelentes recursos gratuitos para complementar tu aprendizaje.",
+      "author": {
+        "id": 101,
+        "name": "Juan Pérez",
+        "email": "juan.perez@example.com"
+      },
+      "tags": [
+        "JavaScript",
+        "programación",
+        "web"
+      ],
+      "image_url": "https://example.com/images/js-post1.jpg",
+      "created_at": "2025-05-11T12:00:00Z",
+      "updated_at": "2025-05-11T12:00:00Z",
+      "likes": 45,
+      "comments": [
+        {
+          "id": 201,
+          "user": "Ana Gómez",
+          "content": "Muy buen artículo, gracias!",
+          "created_at": "2025-05-11T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Guía básica de HTML y CSS",
+      "content": "HTML (HyperText Markup Language) es el lenguaje de marcado que usamos para estructurar el contenido de una página web, mientras que CSS (Cascading Style Sheets) permite controlar su presentación y estilo visual. En esta guía, aprenderás a crear estructuras básicas con HTML como encabezados, párrafos, listas y enlaces. También exploraremos cómo usar CSS para aplicar colores, fuentes, márgenes, paddings y diseño responsivo. Al final, podrás crear una página web simple pero bien estructurada que se vea bien en cualquier dispositivo. Esta base es fundamental antes de pasar a frameworks más complejos como Bootstrap o Tailwind.",
+      "author": {
+        "id": 102,
+        "name": "Laura Ramírez",
+        "email": "laura.ramirez@example.com"
+      },
+      "tags": [
+        "HTML",
+        "CSS",
+        "web"
+      ],
+      "image_url": "https://example.com/images/html-css.jpg",
+      "created_at": "2025-04-10T09:30:00Z",
+      "updated_at": "2025-04-10T09:30:00Z",
+      "likes": 32,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "title": "10 librerías de React que debes conocer",
+      "content": "React ha crecido enormemente en popularidad gracias a su simplicidad y capacidad para crear interfaces de usuario interactivas. En este artículo exploramos 10 librerías que todo desarrollador React debería conocer: 1) React Router para manejo de rutas, 2) Redux para manejo de estado global, 3) Axios para peticiones HTTP, 4) Formik para formularios, 5) React Hook Form como alternativa ligera, 6) Styled Components para estilos en JS, 7) Framer Motion para animaciones, 8) React Query para datos asincrónicos, 9) React Testing Library para pruebas, y 10) React Icons para iconografía. Con estas herramientas, tu flujo de trabajo será más ágil y profesional.",
+      "author": {
+        "id": 103,
+        "name": "Carlos Méndez",
+        "email": "carlos.mendez@example.com"
+      },
+      "tags": [
+        "React",
+        "JavaScript",
+        "librerías"
+      ],
+      "image_url": "https://example.com/images/react-libraries.jpg",
+      "created_at": "2025-03-21T16:45:00Z",
+      "updated_at": "2025-03-21T16:45:00Z",
+      "likes": 78,
+      "comments": [
+        {
+          "id": 202,
+          "user": "María López",
+          "content": "Me encantó la librería número 4!",
+          "created_at": "2025-03-21T17:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Introducción a Git y GitHub",
+      "content": "Git es un sistema de control de versiones distribuido que te permite llevar un seguimiento de los cambios en tu código y colaborar con otros desarrolladores. GitHub, por su parte, es una plataforma basada en Git que facilita el trabajo colaborativo, la revisión de código y la integración continua. En este artículo aprenderás los comandos básicos como `git init`, `git add`, `git commit`, `git push` y `git pull`, así como a crear y gestionar ramas con `git branch` y `git merge`. También veremos cómo trabajar con pull requests, issues y el archivo README para documentar tus proyectos correctamente.",
+      "author": {
+        "id": 104,
+        "name": "Pedro Torres",
+        "email": "pedro.torres@example.com"
+      },
+      "tags": [
+        "Git",
+        "GitHub",
+        "control de versiones"
+      ],
+      "image_url": "https://example.com/images/git-github.jpg",
+      "created_at": "2025-02-15T10:15:00Z",
+      "updated_at": "2025-02-15T10:15:00Z",
+      "likes": 52,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "title": "¿Qué es una API y cómo se usa?",
+      "content": "Una API (Application Programming Interface) es un conjunto de reglas que permite que diferentes aplicaciones se comuniquen entre sí. En el desarrollo web, las APIs suelen usarse para interactuar con servidores y bases de datos. Por ejemplo, puedes usar una API para obtener datos del clima, procesar pagos, autenticar usuarios o enviar correos. Las APIs RESTful son las más comunes, y utilizan métodos HTTP como GET, POST, PUT y DELETE. En este artículo veremos cómo consumir una API usando JavaScript y herramientas como fetch o Axios, así como buenas prácticas en cuanto a seguridad, manejo de errores y documentación con Swagger o Postman.",
+      "author": {
+        "id": 105,
+        "name": "Lucía Fernández",
+        "email": "lucia.fernandez@example.com"
+      },
+      "tags": [
+        "API",
+        "backend",
+        "REST"
+      ],
+      "image_url": "https://example.com/images/api-rest.jpg",
+      "created_at": "2025-01-05T08:00:00Z",
+      "updated_at": "2025-01-05T08:00:00Z",
+      "likes": 66,
+      "comments": [
+        {
+          "id": 203,
+          "user": "David Ruiz",
+          "content": "Excelente explicación para principiantes.",
+          "created_at": "2025-01-05T09:30:00Z"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
