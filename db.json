@@ -14,7 +14,7 @@
         "programación",
         "web"
       ],
-      "image_url": "https://example.com/images/js-post1.jpg",
+      "image_url": "https://img-c.udemycdn.com/course/750x422/5100872_cdc1_2.jpg",
       "created_at": "2025-05-11T12:00:00Z",
       "updated_at": "2025-05-11T12:00:00Z",
       "likes": 45,
@@ -41,7 +41,7 @@
         "CSS",
         "web"
       ],
-      "image_url": "https://example.com/images/html-css.jpg",
+      "image_url": "https://img-c.udemycdn.com/course/750x422/6019438_b89c_3.jpg",
       "created_at": "2025-04-10T09:30:00Z",
       "updated_at": "2025-04-10T09:30:00Z",
       "likes": 32,
@@ -61,7 +61,7 @@
         "JavaScript",
         "librerías"
       ],
-      "image_url": "https://example.com/images/react-libraries.jpg",
+      "image_url": "https://img-c.udemycdn.com/course/480x270/5636236_c338_2.jpg",
       "created_at": "2025-03-21T16:45:00Z",
       "updated_at": "2025-03-21T16:45:00Z",
       "likes": 78,
@@ -88,7 +88,7 @@
         "GitHub",
         "control de versiones"
       ],
-      "image_url": "https://example.com/images/git-github.jpg",
+      "image_url": "https://img-c.udemycdn.com/course/750x422/3248768_7774_6.jpg",
       "created_at": "2025-02-15T10:15:00Z",
       "updated_at": "2025-02-15T10:15:00Z",
       "likes": 52,
@@ -108,7 +108,7 @@
         "backend",
         "REST"
       ],
-      "image_url": "https://example.com/images/api-rest.jpg",
+      "image_url": "https://webaqui.com/wp-content/uploads/2024/06/que-es-api-web.jpg",
       "created_at": "2025-01-05T08:00:00Z",
       "updated_at": "2025-01-05T08:00:00Z",
       "likes": 66,
@@ -121,8 +121,5 @@
         }
       ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
